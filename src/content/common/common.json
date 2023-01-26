@@ -1,0 +1,30 @@
+{
+    "name": "Juniel Cabo",
+    "logoType": {
+        "mobile": "JC",
+        "desktop": "Juniel Cabo"
+    },
+    "mainPicture": "/assets/face.jpg",
+    "mainPictureJPG": "/assets/face.jpg",
+    "pronunciation": "/jun-nyi-el/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "jp",
+    "email": "junielcabo@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nielcabo/",
+    "github": "https://github.com/nielcabs",
+    "resume": "https://docs.google.com/viewer?url=",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/nielcabo/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/nielcabs"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:junielcabo@gmail.com"
+        }
+    ]
+}

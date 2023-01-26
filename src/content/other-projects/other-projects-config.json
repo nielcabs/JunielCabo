@@ -1,0 +1,60 @@
+[
+    {
+        "id": "other-project-post",
+        "title": "Kyubix",
+        "year": "2022",
+        "demo": "https://drive.google.com/file/d/1msrbjBAUSp6KiO1QEwi6FBZ9FbAyqxgM/view?fbclid=IwAR1oLHxCizr4-VbCaCa9gB-lDrJbGMfVti9iqwHWW4W2cKa5cAxIMpkXDrg",
+        "tags": ["HTML", "CSS", "JavaScript", "Game Development"],
+        "description": "A Rubiks Cube game that can play through Web Browser.",
+        "image": "/assets/other-projects/kyubix.png",
+        "jpg": "/assets/other-projects/kyubix.png"
+
+    },
+    {
+        "id": "other-project-noq",
+        "title": "Zuma Lite",
+        "year": "2022",
+        "demo": "https://drive.google.com/file/d/1VN1UhrR2AikMT1yThbrCNH65IwKQ4GDp/view?fbclid=IwAR2QX29yj5yox9II1vwDTacfGuiDRbJ4WfAG2Ha4WDD7dG5NbkQljDCNTas",
+        "tags": ["HTML", "CSS", "JavaScript", "Game Development"],
+        "description": "A Zuma Lite Game that can access and play through Web Browser.",
+        "readMore": "https://web.facebook.com/ayokomagcode",
+        "image": "/assets/other-projects/zuma.png",
+        "jpg": "/assets/other-projects/zuma.png"
+    },
+    {
+        "id": "other-project-bank-compare",
+        "title": "Sinigang - Programming Simulator",
+        "year": "2022",
+        "tags": ["HTML", "CSS", "JavaScript", "Game Development"],
+        "description": "Inspired by Tap Titan and some Simulation Game. You will see how many followers you can accumulate in a year. To generate a new project, type at random (or click auto if you are lazy). Use your followers to buy new research that will boost your stats (and therefore your project quality). Your pens will be featured if they are good enough! GLHF.",
+        "readMore": "https://web.facebook.com/ayokomagcode",
+        "image": "/assets/other-projects/coders.png",
+        "jpg": "/assets/other-projects/coders.png"
+    },
+    {
+        "id": "other-project-bunder",
+        "title": "The Mine",
+        "year": "2022",
+        "tags": ["HTML", "CSS", "Game Development", "No JavaScript Challenge"],
+        "description": "A Pixel Web Game with playable through Web Browser. This game is pure HTML and CSS only.",
+        "readMore": "https://web.facebook.com/ayokomagcode",
+        "image": "/assets/other-projects/mine.png",
+        "jpg": "/assets/other-projects/mine.png"
+    },
+    {
+        "id": "other-project-suicide-analyzer",
+        "title": "Suicide Awareness",
+        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
+        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
+        "image": "/assets/other-projects/suicide-analyzer.webp",
+        "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
+    },
+    {
+        "id": "other-project-nutricare",
+        "title": "NutritCare",
+        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
+        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
+        "image": "/assets/other-projects/nutricare.webp",
+        "jpg": "/assets/other-projects/nutricare.jpeg"
+    }
+]

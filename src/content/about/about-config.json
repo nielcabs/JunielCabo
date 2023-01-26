@@ -1,0 +1,88 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "STI College Angeles",
+            "degree": "Mobile Application and Web Development",
+            "duration": "June 2016 - May 2018",
+            "content": [
+                "Focus: Android Development and System Development",
+                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "City College of Angeles",
+            "degree": "Bachelor of Science in Computer Science",
+            "duration": "Aug 2018 - Present",
+            "content": [
+                "Focus: Code Structure, Web Development and Flutter",
+                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "Freelance",
+            "position": "Freelance Thesis Consultant and Developer",
+            "duration": "Nov 2022 - Present",
+            "description": [
+                "Built the logic for a streamlined ad-serving platform that scale.​",
+                "Educational institutions and online classroom management.",
+                "Designed, developed, and administered an e-voting website system for a graduate student."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "Freelance",
+            "position": "Freelance Thesis Consultant and Developer",
+            "duration": "Nov 2022 - Present",
+            "description": [
+                "Built the logic for a streamlined ad-serving platform that scale.​",
+                "Educational institutions and online classroom management.",
+                "Designed, developed, and administered an e-voting website system for a graduate student."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "C#/.Net",
+                "Solidity",
+                "ReactJS",
+                "TypeScript",
+                "JavaScript",
+                "Python",
+                "C/C++",
+                "Java",
+                "NoSQL",
+                "SQL",
+                "Shell",
+                "React Native",
+                "Vega (D3.js)"
+            ]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "ReactJS"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["MongoDB", "MySQL", "Firebase"]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "A beginner's guide to github",
+            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+        },
+        {
+            "id": "blog-2",
+            "title": "User Experience Design – A little more than just design",
+            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+        }
+    ]
+}
