@@ -4,8 +4,8 @@
         "mobile": "JC",
         "desktop": "Juniel Cabo"
     },
-    "mainPicture": "/assets/face.jpg",
-    "mainPictureJPG": "/assets/face.jpg",
+    "mainPicture": "https://drive.google.com/uc?export=view&id=1MMle2UXlEJ5MTr3yV99hYrWezljiMHC4",
+    "mainPictureJPG": "https://drive.google.com/uc?export=view&id=1MMle2UXlEJ5MTr3yV99hYrWezljiMHC4",
     "pronunciation": "/jun-nyi-el/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "jp",

@@ -8,8 +8,8 @@
         "github": "https://github.com/nielcabs/Certificate-Generator-with-Blockchain",
         "tags": ["HTML", "CSS", "PHP", "Javascript", "Solidity", "Blockchain", "Automated"],
         "description": "An Web Application that generates a Certificate and have a authentication and validation using Blockchain Technology.",
-        "image": "/assets/featured-projects/trackcta.png",
-        "jpg": "/assets/featured-projects/trackcta.png"
+        "image": "https://drive.google.com/uc?export=view&id=1F1XorhyUbpW8-j--apmM9oWS117JPULq",
+        "jpg": "https://drive.google.com/uc?export=view&id=1F1XorhyUbpW8-j--apmM9oWS117JPULq"
     },
     {
         "id": "votingsystem",
@@ -20,8 +20,8 @@
         "github": "https://github.com/nielcabs/Voting-System-with-QR-Code-Scanning",
         "tags": ["HTML", "CSS", "PHP", "Javascript", "Voting", "Web Application"],
         "description": "A web application that has a Voting function and also a QR Code Scanning function for the voting.",
-        "image": "/assets/featured-projects/dhvsu.png",
-        "jpg": "/assets/featured-projects/dhvsu.png"
+        "image": "https://drive.google.com/uc?export=view&id=1htO8M-Tgf_CUQDtzvkXYjNaXaljaKyq4",
+        "jpg": "/https://drive.google.com/uc?export=view&id=1htO8M-Tgf_CUQDtzvkXYjNaXaljaKyq4"
     },
     {
         "id": "pvnotse",
@@ -40,8 +40,8 @@
         ],
         "github": "https://github.com/nielcabs/PV-Notes",
         "description": "A web extension that gives you to take notes easily without changing tabs and alos it has other features like searching your notes, giving tags and inserting link.",
-        "image": "/assets/featured-projects/pv.png",
-        "jpg": "/assets/featured-projects/pv.png"
+        "image": "https://drive.google.com/uc?export=view&id=1nOWpu3r4uX8GayJnZJFiSRfof8FEJpG8",
+        "jpg": "https://drive.google.com/uc?export=view&id=1nOWpu3r4uX8GayJnZJFiSRfof8FEJpG8"
     },
     {
         "id": "featured-project-measure-ux",
@@ -60,7 +60,7 @@
         ],
         "description": "A project to record an audio coming from your screens. It also integrated on PV Note Taking.",
         "github": "https://github.com/nielcabs/PV-Notes-Audio",
-        "image": "/assets/featured-projects/pva.png",
-        "jpg": "/assets/featured-projects/pva.png"
+        "image": "https://drive.google.com/uc?export=view&id=1PLOxQkI6Y-lXDVwsoKU7HCOFXbyJcHw7",
+        "jpg": "https://drive.google.com/uc?export=view&id=1PLOxQkI6Y-lXDVwsoKU7HCOFXbyJcHw7"
     }
 ]
