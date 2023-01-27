@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/junielcabo/static/css/main.a9905489.css",
-    "main.js": "/junielcabo/static/js/main.b339410d.js",
-    "static/js/734.680374b4.chunk.js": "/junielcabo/static/js/734.680374b4.chunk.js",
-    "static/js/914.29fdf062.chunk.js": "/junielcabo/static/js/914.29fdf062.chunk.js",
+    "main.js": "/junielcabo/static/js/main.4edef832.js",
+    "static/js/734.3013600a.chunk.js": "/junielcabo/static/js/734.3013600a.chunk.js",
+    "static/js/914.479e172a.chunk.js": "/junielcabo/static/js/914.479e172a.chunk.js",
     "static/js/384.6dbd65a2.chunk.js": "/junielcabo/static/js/384.6dbd65a2.chunk.js",
-    "static/js/823.24dfa402.chunk.js": "/junielcabo/static/js/823.24dfa402.chunk.js",
-    "static/js/29.7e776f01.chunk.js": "/junielcabo/static/js/29.7e776f01.chunk.js",
-    "static/js/580.be30a835.chunk.js": "/junielcabo/static/js/580.be30a835.chunk.js",
-    "static/js/607.e0d8d52d.chunk.js": "/junielcabo/static/js/607.e0d8d52d.chunk.js",
+    "static/js/823.28143152.chunk.js": "/junielcabo/static/js/823.28143152.chunk.js",
+    "static/js/29.fb36e178.chunk.js": "/junielcabo/static/js/29.fb36e178.chunk.js",
+    "static/js/580.b2ebdbb9.chunk.js": "/junielcabo/static/js/580.b2ebdbb9.chunk.js",
+    "static/js/607.e727547f.chunk.js": "/junielcabo/static/js/607.e727547f.chunk.js",
     "static/js/787.e99e9158.chunk.js": "/junielcabo/static/js/787.e99e9158.chunk.js",
     "static/js/708.3ca58fbd.chunk.js": "/junielcabo/static/js/708.3ca58fbd.chunk.js",
     "static/js/617.c9912431.chunk.js": "/junielcabo/static/js/617.c9912431.chunk.js",
@@ -24,14 +24,14 @@
     "static/media/landing.md": "/junielcabo/static/media/landing.cc3ed3e187c306e2f25c.md",
     "static/media/cursor.svg": "/junielcabo/static/media/cursor.23b57b5941614fcffd31.svg",
     "main.a9905489.css.map": "/junielcabo/static/css/main.a9905489.css.map",
-    "main.b339410d.js.map": "/junielcabo/static/js/main.b339410d.js.map",
-    "734.680374b4.chunk.js.map": "/junielcabo/static/js/734.680374b4.chunk.js.map",
-    "914.29fdf062.chunk.js.map": "/junielcabo/static/js/914.29fdf062.chunk.js.map",
+    "main.4edef832.js.map": "/junielcabo/static/js/main.4edef832.js.map",
+    "734.3013600a.chunk.js.map": "/junielcabo/static/js/734.3013600a.chunk.js.map",
+    "914.479e172a.chunk.js.map": "/junielcabo/static/js/914.479e172a.chunk.js.map",
     "384.6dbd65a2.chunk.js.map": "/junielcabo/static/js/384.6dbd65a2.chunk.js.map",
-    "823.24dfa402.chunk.js.map": "/junielcabo/static/js/823.24dfa402.chunk.js.map",
-    "29.7e776f01.chunk.js.map": "/junielcabo/static/js/29.7e776f01.chunk.js.map",
-    "580.be30a835.chunk.js.map": "/junielcabo/static/js/580.be30a835.chunk.js.map",
-    "607.e0d8d52d.chunk.js.map": "/junielcabo/static/js/607.e0d8d52d.chunk.js.map",
+    "823.28143152.chunk.js.map": "/junielcabo/static/js/823.28143152.chunk.js.map",
+    "29.fb36e178.chunk.js.map": "/junielcabo/static/js/29.fb36e178.chunk.js.map",
+    "580.b2ebdbb9.chunk.js.map": "/junielcabo/static/js/580.b2ebdbb9.chunk.js.map",
+    "607.e727547f.chunk.js.map": "/junielcabo/static/js/607.e727547f.chunk.js.map",
     "787.e99e9158.chunk.js.map": "/junielcabo/static/js/787.e99e9158.chunk.js.map",
     "708.3ca58fbd.chunk.js.map": "/junielcabo/static/js/708.3ca58fbd.chunk.js.map",
     "617.c9912431.chunk.js.map": "/junielcabo/static/js/617.c9912431.chunk.js.map",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.a9905489.css",
-    "static/js/main.b339410d.js"
+    "static/js/main.4edef832.js"
   ]
 }
